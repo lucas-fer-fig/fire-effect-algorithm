@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="" width="490">
+    <img src="./fire-effect.gif" width="490">
 </p>
 
 # Fire Effect Algorithm
