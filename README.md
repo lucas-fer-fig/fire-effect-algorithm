@@ -6,4 +6,4 @@
 Fire effect algorithm made with JavaScript to rum on browser
 
 #
-Thanks to @filipedeschamps for the knowledge!
+Thanks to [@filipedeschamps](https://github.com/filipedeschamps/doom-fire-algorithm) for the knowledge!
