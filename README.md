@@ -16,6 +16,7 @@
     <img alt="GitHub" src="https://img.shields.io/github/license/lucas-fer-fig/fire-effect-algorithm">
 </p>
 
-====
+<br>
 
+#
 Thanks to [@filipedeschamps](https://github.com/filipedeschamps/doom-fire-algorithm) for the knowledge!
