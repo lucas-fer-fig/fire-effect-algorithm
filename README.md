@@ -17,4 +17,5 @@
 </p>
 
 ====
+
 Thanks to [@filipedeschamps](https://github.com/filipedeschamps/doom-fire-algorithm) for the knowledge!
